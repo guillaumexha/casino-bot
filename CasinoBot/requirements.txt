@@ -1,0 +1,8 @@
+Flask
+Telethon
+python-dotenv
+requests
+redis
+tqdm
+aiohttp
+pytz
